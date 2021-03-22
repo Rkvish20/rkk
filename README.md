@@ -25,13 +25,16 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
           <li class="">
-            <a class="nav-link active" href="/">Home</a>
+            <a class="nav-link active" href="/
+rkk">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link active" href="about.html">about</a>
+            <a class="nav-link active" href="/
+rkk/about.html">about</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link active" href="/">contact us</a>
+            <a class="nav-link active" href="/
+rkk">contact us</a>
           </li>
         </ul>
         <form class="d-flex">
